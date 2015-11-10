@@ -1,0 +1,50 @@
+#wrapper
+{
+width:750px;
+height:600px;
+background-color:#333;
+margin:0 auto;
+}
+
+#header
+{
+	width:100%;
+height:15%;
+background-color:#B85C00;
+}
+#middle
+{
+	width:100%;
+	height:70%;
+background:yellow;
+margin:0 auto;
+
+	}
+	#side2
+{
+	width:25%;
+	height:100%;
+background:Blue;
+float:right;
+	}
+	#side3
+{
+	width:25%;
+	height:100%;
+background:blue;
+right:200px;
+	}
+	#footer
+{
+	width:100%;
+	height:15%;
+background:green;
+float:;
+	}
+	#side4
+{
+	width:50%;
+	height:100%;
+background:Silver;
+margin:0 auto;
+	}
